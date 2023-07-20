@@ -24,7 +24,7 @@ It will output a local IP address which can be opened with a browser.
 ```
 Dash is running on http://127.0.0.1:8050/
 
- * Serving Flask app 'dm_tool'
+ * Serving Flask app 'dm_tool_mod'
  * Debug mode: off
 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
  * Running on http://127.0.0.1:8050
@@ -40,4 +40,4 @@ It is possible to select "None" for providing just plain colors.
 Datapoints can be selected by selecting a range of data on each axis. The selections will propagate to the other plots, by greying out the non-selected points.
 On the scatter plots it is possible to select using the drop-down menus the X, Y and colour axes.
 
-An example dataset is available in this repository in the example folder.
+An example dataset is available in this repository in the example folder. 
