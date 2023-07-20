@@ -46,6 +46,7 @@ Datapoints can be selected by selecting a range of data on each axis. The select
 On the scatter plots it is possible to select using the drop-down menus the X, Y and colour axes.
 
 ![Example of a propagated selection on a Scatter plot](https://raw.githubusercontent.com/spinjet/dm_tool/main/assets/propagated_selection_example.png)
+
 *Example of propagated selections on a Scatter plot*
 
 
